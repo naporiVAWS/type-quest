@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "タイプクエスト",
+  "short_name": "タイプクエスト",
+  "description": "ゲーム感覚で上達するタイピング練習アプリ。個人練習、CPU対戦、ダンジョン、クラス対戦に対応。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#120d2e",
+  "theme_color": "#120d2e",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
